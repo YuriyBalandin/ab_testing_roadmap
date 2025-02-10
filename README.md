@@ -1,2 +1,22 @@
-# ab_testing_roadmap
-Roadmap for learning experimentation and AB-testing
+# Роадмап изучения экспериментов и A/B-тестов
+
+* Общие ресурсы
+* Зачем это вообще нужно? Культура A/B-тестирования
+* Метрики и статистические тесты
+* Ratio-метрики
+* Дизайн и расчет размера выборки
+* Проблемы A/B-тестов
+    * Проблема подглядывания
+    * Network effects
+    * Novelty effects
+    * Sample Ratio Mismatch (SRM)
+* Методы сокращения дисперсии
+    * Стратификация 
+    * CUPED
+    * ML
+* Sequential testing
+* Квази-эксперименты
+    * Diff-in-Diff
+    * Casual Impact
+* Байесовское A/B-тестирование
+
